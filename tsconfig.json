@@ -2,6 +2,7 @@
   "compilerOptions": {
     "moduleResolution":"node",
     "module": "esnext",
+    "resolveJsonModule": true
   }
 }
  
