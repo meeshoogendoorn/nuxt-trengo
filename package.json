@@ -30,7 +30,7 @@
     "eslint": "^8.29.0",
     "nuxt": "^3.0.0"
   },
-    "keywords": [
+  "keywords": [
     "nuxt3",
     "trengo",
     "chatWidget"
