@@ -1,8 +1,7 @@
 import { defineNuxtConfig } from 'nuxt/config';
-import MyModule from '..';
 
 export default defineNuxtConfig({
-  modules: [MyModule],
+  modules: ['nuxt-trengo'],
   trengo: {
     addPlugin: true,
     delay: 1000,
